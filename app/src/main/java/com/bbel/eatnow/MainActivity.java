@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
     BitmapDescriptor bitmapDescriptor;
     Overlay myLocationOverlay;
     boolean isFirst = true;
-
+    //123
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
